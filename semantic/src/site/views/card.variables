@@ -1,0 +1,10 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+/* Shadow */
+@shadowDistance: 0;
+@shadowBoxShadow: 0 @shadowDistance 0 0 0 transparent;
+
+/* Card */
+@borderRadius: 0;
